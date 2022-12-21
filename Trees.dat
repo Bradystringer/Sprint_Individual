@@ -1,0 +1,29 @@
+Enter your First Number:  
+Enter your Second Number:  
+Enter your Third Number:  
+Enter your Fourth Number:  
+Enter your Fifth Number:  
+Enter your Sixth Number:  
+Enter your Seventh Number:  
+Enter your Eigth Number:  
+
+Inputted Numbers: 1, 2, 3, 4, 5, 6, 7, 8
+
+Tree Diagram Seen Below: 
+
+R----4
+   L----2
+   |  L----1
+   |  R----3
+   R----6
+      L----5
+      R----7
+         R----8
+After Deletion: 
+R----4
+   L----2
+   |  L----1
+   |  R----3
+   R----7
+      L----5
+      R----8
